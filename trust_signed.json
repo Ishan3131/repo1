@@ -5,11 +5,11 @@
   "created_at": "2026-11-01T04:45:00Z",
   "description": "WoT Tier 1 Anchor: Cross-account bridge to Account 2 and 3",
   "vouches": [
-    "himanshibishnoi",
     "ishan3131",
     "Jyotikesari"
   ],
   "denouncements": [
+    "himanshibishnoi"
   ],
   "trusted_peers": [
   "Ishan3131/repo2",
